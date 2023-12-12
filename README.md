@@ -6,6 +6,7 @@ El fuzzing se hara con dos diccionarios distintos
 Para utilizar este script desde cualquier carpeta sin necesidad de especificar la ruta, siga estos pasos:
 
 >sudo mv eva01.sh /usr/local/bin
+
 >chmod +x /usr/local/bin/eva01.sh
 
 **Tenga en cuenta que los escaneos están planificados para entornos controlados.
